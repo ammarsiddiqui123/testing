@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyt6GH6UiYbpsYhYezmyvez0MwlbcoQVZehVWP8rybBvpWeIenJlsH3Ly0LYThlgfHYtuhTKMVDPW4qwu8PkNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AmmarSiddiqui\\Desktop\\test-Dotnet\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AmmarSiddiqui\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\AmmarSiddiqui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AmmarSiddiqui\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AmmarSiddiqui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AmmarSiddiqui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
